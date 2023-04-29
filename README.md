@@ -15,12 +15,12 @@ Try the app: multiversal-lovers.web.app
 ## 特别感谢及相关链接，我的小伙伴们：
 #### 特别感谢 [jjj] 在服务器和AWS使用方面给了我很多指导和帮助。
 #### [lll] 是最初提出这个聊天应用想法的人。以及他的图像生成和单张照片生成动画的工作：
-#### [ddd] 在网页结构方面贡献了许多关键思路。这里有他制作的聊天应用的链接：
+#### [ddd] 在网页结构方面贡献了许多思路。这里有他制作的聊天应用的链接：
 
 ## Special thanks and related link to my teammates work:
 #### Special thanks to [jjj] for providing me guidline and help on server and AWS useage.
 #### [lll] is the one who came up with the original chat app concept. Also his work on image generation and animation integration:
-#### [ddd] contributed many key ideas on web structure. A link to his version of chat app:
+#### [ddd] contributed many ideas on web structure. A link to his version of chat app:
 
 
 This web app is for chating with GPT, and letting GPT playing some specific roles. The app including the basic chat app interface and additional features of "editing 
