@@ -1,10 +1,10 @@
 # ChatWithGpt_FrontEnd
 The Frontend of a small chat web app powered by gpt.
 
-### The app interface and style is developed on top of a wonderful chat app starter code on Youtube:  https://www.youtube.com/watch?v=k4mjF4sPITE
-### Special Thanks. I don't have any additional rules for this project, just follow the rule and requirement of the starter code provider.
+## Special Thanks: The app interface and style is developed on top of a wonderful chat app starter code on Youtube, I didn't make any change to css and styles. So look just the same as the original starter work. All credits to the original author for designing and styles providing:  https://www.youtube.com/watch?v=k4mjF4sPITE
+### I will appreciate you credit me if this project helps you developing your own ai chat app. I don't have any additional rules for this project, just follow the rule and requirement of the starter code provider.
 
-### 该应用的界面和风格是基于一个很棒的聊天应用起始代码制作的，这个起始代码来自Youtube：https://www.youtube.com/watch?v=k4mjF4sPITE
+## 该应用的界面和风格是基于一个很棒的聊天应用起始代码制作的，我没有花时间修改任何css和ui，所以界面看起来几乎一样。所有的界面设计风格的credits都给原作者。这个起始代码来自Youtube：https://www.youtube.com/watch?v=k4mjF4sPITE
 ### 我没有任何要求，只需大家遵守原始代码提供者的要求。<br><br><br>
 
 ## Try the app: multiversal-lovers.web.app  
