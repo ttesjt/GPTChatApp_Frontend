@@ -27,9 +27,9 @@ The Frontend of a small chat web app powered by gpt.
 
 
 This web app is for chating with GPT, and letting GPT playing some specific roles. The app including the basic chat app interface and additional features of "editing 
-message", "delete message", "create chatacters", "edit characters"...etc. There is a corresponding backend. You need both the frontend and the backend to make it to work. The url to the backend:
+message", "delete message", "create chatacters", "edit characters"...etc. There is a corresponding backend. You need both the frontend and the backend to make it to work. The url to the backend: https://github.com/ttesjt/GPTChatApp_Backend
 
-这个网页应用是用于与GPT聊天，让GPT扮演一些特定角色。应用包括基本的聊天应用界面和额外的功能，如“编辑消息”、“删除消息”、“创建角色”、“编辑角色”等。同时还有一个相应的后端。你需要前端和后端才能使它正常工作。后端的URL为：
+这个网页应用是用于与GPT聊天，让GPT扮演一些特定角色。应用包括基本的聊天应用界面和额外的功能，如“编辑消息”、“删除消息”、“创建角色”、“编辑角色”等。同时还有一个相应的后端。你需要前端和后端才能使它正常工作。后端的URL为：https://github.com/ttesjt/GPTChatApp_Backend
 
 
 After you set up the AWS with the backend. You will need to fill out the corresponding “url” in the codes to request. The urls are left in the format of [url_to_fill:].
