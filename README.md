@@ -29,9 +29,9 @@ message", "delete message", "create chatacters", "edit characters"...etc. There 
 这个网页应用是用于与GPT聊天，让GPT扮演一些特定角色。应用包括基本的聊天应用界面和额外的功能，如“编辑消息”、“删除消息”、“创建角色”、“编辑角色”等。同时还有一个相应的后端。你需要前端和后端才能使它正常工作。后端的URL为：
 
 
-After you set up the AWS with the backend. You will need to fill out the corresponding “url” in the codes to request. The urls are left in the format of [url_to_fill: …].
+After you set up the AWS with the backend. You will need to fill out the corresponding “url” in the codes to request. The urls are left in the format of [url_to_fill:].
 
-在与后端的AWS设置好之后，您需要填写代码中相应的“url”以发起请求。这些url将以[url_to_fill:…]的格式呈现。
+在与后端的AWS设置好之后，您需要填写代码中相应的“url”以发起请求。这些url将以[url_to_fill]的格式呈现。
 
 Check out my teammates' cool work as well. 
 
