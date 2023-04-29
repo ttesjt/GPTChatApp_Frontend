@@ -5,22 +5,22 @@ The Frontend of a small chat web app powered by gpt.
 ### Special Thanks. I don't have any additional rules for this project, just follow the rule and requirement of the starter code provider.
 
 ### 该应用的界面和风格是基于一个很棒的聊天应用起始代码制作的，这个起始代码来自Youtube：https://www.youtube.com/watch?v=k4mjF4sPITE
-### 我没有任何要求，只需大家遵守原始代码提供者的要求。
+### 我没有任何要求，只需大家遵守原始代码提供者的要求。<br><br><br>
 
-Try the app: multiversal-lovers.web.app
-体验一下使用结果：multiversal-lovers.web.app
-
+## Try the app: multiversal-lovers.web.app  
+## 体验一下使用结果：multiversal-lovers.web.app
+<br><br><br>
 
 
 ## 特别感谢及相关链接，我的小伙伴们：
-#### 特别感谢 [jjj] 在服务器和AWS使用方面给了我很多指导和帮助。
-#### [lll] 是最初提出这个聊天应用想法的人。以及他的图像生成和单张照片生成动画的工作：
-#### [ddd] 在网页结构方面贡献了许多思路。这里有他制作的聊天应用的链接：
+#### [@lapio123](https://github.com/lapio123) 是最初提出这个聊天应用想法的人。以及他的图像生成和单张照片生成动画的工作:
+#### 特别感谢 [@JinLiu-dev](https://github.com/JinLiu-dev) 在服务器和AWS使用方面给了我很多指导和帮助。
+#### [@dzhdhr](https://github.com/dzhdhr) 在网页结构方面贡献了许多思路。这里有他制作的聊天应用的链接：
 
 ## Special thanks and related link to my teammates work:
-#### Special thanks to [jjj] for providing me guidline and help on server and AWS useage.
-#### [lll] is the one who came up with the original chat app concept. Also his work on image generation and animation integration:
-#### [ddd] contributed many ideas on web structure. A link to his version of chat app:
+#### [@lapio123](https://github.com/lapio123) is the one who came up with the original chat app concept. Also his work on image generation and animation integration:
+#### Special thanks to [@JinLiu-dev](https://github.com/JinLiu-dev) for providing me guidline and help on server and AWS useage.
+#### [@dzhdhr](https://github.com/dzhdhr) contributed many ideas on web structure. A link to his version of chat app:<br><br><br>
 
 
 This web app is for chating with GPT, and letting GPT playing some specific roles. The app including the basic chat app interface and additional features of "editing 
@@ -44,9 +44,9 @@ Other than that, I hope you guys have fun playing with Chat_GPT. The project mig
 
 除此之外，希望大家与Chat_GPT玩得开心。根据未来Chat_GPT更新的新功能，该项目可能会进一步开发。
 
-Cheers, 
+## Cheers, 
 
-一切顺利！！
+## 一切顺利！！
 
 
 
