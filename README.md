@@ -9,11 +9,11 @@ The Frontend of a small chat web app powered by gpt.
 
 ## Try the app: multiversal-lovers.web.app  
 ## 体验一下使用结果：multiversal-lovers.web.app
-<br><br><br>
+<br><br>
 
 #### how this works: Create a new react app and paste the src into it. install the package.json.
 #### 创建一个新的react app。复制src到你的app中。然后install package.json
-<br><br><br>
+<br><br>
 
 ## 特别感谢及相关链接，我的小伙伴们：
 #### [@lapio123](https://github.com/lapio123) 是最初提出这个聊天应用想法的人。以及他的图像生成和单张照片生成动画的工作:
