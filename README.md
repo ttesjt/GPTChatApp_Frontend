@@ -36,7 +36,7 @@ After you set up the AWS with the backend. You will need to fill out the corresp
 
 在与后端的AWS设置好之后，您需要填写代码中相应的“url”以发起请求。这些url将以[url_to_fill]的格式呈现。
 
-Check out my teammates' cool work as well. 
+Check out my friends' cool work as well. 
 
 Feel free to use anything from this repo. This app has a pretty close adhesion to AWS. So if you want it to work with other service providers, or you want it to work locally, you might need to do some extra work.
 
